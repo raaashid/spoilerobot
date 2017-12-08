@@ -115,7 +115,7 @@ class TelegramBot():
             return obj
 
 bot = TelegramBot("BOT_TOKEN_GOES_HERE")
-BOT_OWNER_TAG = "@BOT_OWNER_USERNAME_GOES_HERE"
+BOT_OWNER_TAG = "spoilerobot.py"
 
 import time, pickle, os.path, traceback, random, threading
 try:
